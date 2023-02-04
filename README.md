@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-Section1 | Section2 | Section3 | ...
+[Breakfast](Menu.md/#Breakfast) | [Lunch](Menu.md/#Lunch) | [Dinner](Menu.md/#dinner) | [Night Food](Menu.md/#Night-Food) | [Beverages](Menu.md/#Beverages) |
 
 นี้คือตัวอย่างของวิธีการที่ใส่ hyperlinks เพื่อไปในแต่ละส่วน(Heading)ที่เราต้องการ  
 
