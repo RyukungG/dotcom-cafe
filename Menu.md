@@ -1,6 +1,6 @@
 # KU Cafe Menu
 
- [Lunch](#Lunch) | [Beverages](#Beverages) |
+ [Lunch](#Lunch) | [NightFood](#Night Food)| [Beverages](#Beverages) |
 
 ## Breakfast
 
@@ -21,6 +21,14 @@
 
 ## Night Food
 
+| Item                | Price |
+|:-------------------------|----------|
+|ข้าวต้ม|30|
+|ก๋วยจั๊บ|50|
+|กระเพาะปลา|80|
+|ก๋วยเตี๋ยว|50|
+|ข้าวมันไก่|50|
+|ราเม็ง|80|
 
 ## Beverages
 | Item | Price | 
