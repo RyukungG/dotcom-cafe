@@ -1,7 +1,7 @@
 # KU Cafe Menu
 
 [Beverages](#Beverages) |[Dinner](#dinner)
- [Lunch](#Lunch) | [NightFood](#NightFood)| [Beverages](#Beverages) |
+ [Lunch](#Lunch) | [NightFood](#Night-Food)| [Beverages](#Beverages) |
 
 ## Breakfast
 
@@ -26,7 +26,7 @@
 | Lasagna | 60 |
 
 
-## NightFood
+## Night-Food
 
 | Item                | Price |
 |:-------------------------|----------|
