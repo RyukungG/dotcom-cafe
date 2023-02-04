@@ -1,5 +1,7 @@
 # KU Cafe Menu
 
+[Dinner](#dinner)
+
 
 ## Breakfast
 
@@ -12,6 +14,12 @@
 
 ## Dinner
 
+| Item | Price |
+| --- | --- |
+| Fried rice | 35 |
+| Wagyu steak | 5000 |
+| Lasagna | 60 |
+
 
 ## Night Food
 
@@ -23,3 +31,7 @@
 ---
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
+
+| Name      | Role      | Github          |
+|:----------|-----------|-----------------|
+| Maroj Thangthong | Dinner | MarojT |
