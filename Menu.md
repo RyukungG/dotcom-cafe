@@ -17,7 +17,8 @@
 
 
 ## Beverages
-| Item | Price |    
+| Item | Price | 
+| --- | --- |  
 | coffee | 100 |  
 | tea | 100 |  
 | soda | 20 |  
