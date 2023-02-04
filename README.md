@@ -30,4 +30,9 @@ Section1 | Section2 | Section3 | ...
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+<<<<<<< HEAD
 | Maroj Thangthong | Dinner | MarojT |
+=======
+| Pakorn Laohakanniyom | Beverages | @RyukungG |
+
+>>>>>>> 2a03909d2453517b20ac0701b760dc94d8713d0e
