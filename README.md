@@ -31,4 +31,6 @@ Section1 | Section2 | Section3 | ...
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Jittabun Banrerngsri | Lunch | @PAFFx |
+| Pakorn Laohakanniyom | Beverages | @RyukungG |
+
 
