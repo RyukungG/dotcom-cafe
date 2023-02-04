@@ -31,7 +31,3 @@
 ---
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
-
-| Name      | Role      | Github          |
-|:----------|-----------|-----------------|
-| Maroj Thangthong | Dinner | MarojT |
