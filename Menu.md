@@ -1,6 +1,6 @@
 # KU Cafe Menu
 
- [Lunch](#Lunch) | [NightFood](#Night Food)| [Beverages](#Beverages) |
+[Lunch](#Lunch) | [Dinner](#dinner) | [Night Food](#Night-Food)| [Beverages](#Beverages) |
 
 ## Breakfast
 
@@ -17,6 +17,12 @@
   | Curry | 80    |
 
 ## Dinner
+
+| Item | Price |
+| --- | --- |
+| Fried rice | 35 |
+| Wagyu steak | 5000 |
+| Lasagna | 60 |
 
 
 ## Night Food
