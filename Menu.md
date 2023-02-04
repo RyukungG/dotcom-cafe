@@ -1,12 +1,13 @@
 # KU Cafe Menu
 
-[Lunch](#Lunch) | [Dinner](#dinner) | [Night Food](#Night-Food)| [Beverages](#Beverages) |
-
+[Breakfast](#Breakfast)|[Lunch](#Lunch) | [Dinner](#dinner) | [Night Food](#Night-Food)| [Beverages](#Beverages) |
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+| Item            | Price |
+|:----------------|------:|
+| Toast           |    20 |
+| Boiled egg      |     5 |
+| Chicken Sausage |    15 |
 
 ## Lunch 
     
@@ -43,8 +44,6 @@
 | tea | 100 |  
 | soda | 20 |  
 | water | 20 |  
-
-
 
 ---
 
