@@ -1,5 +1,6 @@
 # KU Cafe Menu
-[Beverages](#Beverages) |
+
+ [Lunch](#Lunch) | [Beverages](#Beverages) |
 
 ## Breakfast
 
@@ -8,7 +9,12 @@
     (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
-
+    
+  | Item  | Price |
+  |-------|-------|
+  |Kaprao |  40   |
+  |Steak  |  100  |
+  | Curry | 80    |
 
 ## Dinner
 
