@@ -1,6 +1,7 @@
 # KU Cafe Menu
 
-[NightFood](#Night Food)|
+ [Lunch](#Lunch) | [NightFood](#Night Food)| [Beverages](#Beverages) |
+
 ## Breakfast
 
     Item                           Price
@@ -8,7 +9,12 @@
     (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
-
+    
+  | Item  | Price |
+  |-------|-------|
+  |Kaprao |  40   |
+  |Steak  |  100  |
+  | Curry | 80    |
 
 ## Dinner
 
@@ -25,6 +31,12 @@
 |ราเม็ง|80|
 
 ## Beverages
+| Item | Price | 
+| --- | --- |  
+| coffee | 100 |  
+| tea | 100 |  
+| soda | 20 |  
+| water | 20 |  
 
 
 
