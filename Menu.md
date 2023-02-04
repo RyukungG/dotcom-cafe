@@ -1,7 +1,7 @@
 # KU Cafe Menu
 
-=======
 [Beverages](#Beverages) |[Dinner](#dinner)
+ [Lunch](#Lunch) | [NightFood](#NightFood)| [Beverages](#Beverages) |
 
 ## Breakfast
 
@@ -10,7 +10,12 @@
     (use proper Markdown formatting, not literal text like this)
 
 ## Lunch 
-
+    
+  | Item  | Price |
+  |-------|-------|
+  |Kaprao |  40   |
+  |Steak  |  100  |
+  | Curry | 80    |
 
 ## Dinner
 
@@ -21,8 +26,16 @@
 | Lasagna | 60 |
 
 
-## Night Food
+## NightFood
 
+| Item                | Price |
+|:-------------------------|----------|
+|ข้าวต้ม|30|
+|ก๋วยจั๊บ|50|
+|กระเพาะปลา|80|
+|ก๋วยเตี๋ยว|50|
+|ข้าวมันไก่|50|
+|ราเม็ง|80|
 
 ## Beverages
 | Item | Price | 
