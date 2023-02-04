@@ -1,7 +1,7 @@
 # KU Cafe Menu
 
-[Dinner](#dinner)
-
+=======
+[Beverages](#Beverages) |[Dinner](#dinner)
 
 ## Breakfast
 
@@ -25,6 +25,12 @@
 
 
 ## Beverages
+| Item | Price | 
+| --- | --- |  
+| coffee | 100 |  
+| tea | 100 |  
+| soda | 20 |  
+| water | 20 |  
 
 
 
