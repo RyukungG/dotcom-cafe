@@ -17,11 +17,11 @@
 
 
 ## Beverages
-| Item | Price |
-| coffee | 100 |
-| tea | 100 |
-| soda | 20 |
-| water | 20 |
+| Item | Price |    
+| coffee | 100 |  
+| tea | 100 |  
+| soda | 20 |  
+| water | 20 |  
 
 
 
